@@ -1,4 +1,4 @@
-// Copyright (c) 2025 Ewan Crawford
+// Copyright (c) 2025-2026 Ewan Crawford
 #version 330 core
 
 layout(location = 0) in vec3 Pos;

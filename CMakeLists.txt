@@ -1,4 +1,4 @@
-# Copyright (c) 2025 Ewan Crawford
+# Copyright (c) 2025-2026 Ewan Crawford
 
 cmake_minimum_required(VERSION 3.27 FATAL_ERROR)
 project(GLSphere VERSION 1.0.0)

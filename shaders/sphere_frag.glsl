@@ -1,4 +1,4 @@
-// Copyright (c) 2025 Ewan Crawford
+// Copyright (c) 2025-2026 Ewan Crawford
 #version 330 core
 
 in vec3 Pos;

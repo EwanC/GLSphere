@@ -1,4 +1,4 @@
-# Copyright (c) 2025 Ewan Crawford
+# Copyright (c) 2025-2026 Ewan Crawford
 
 add_subdirectory(glfw-3.4)
 
